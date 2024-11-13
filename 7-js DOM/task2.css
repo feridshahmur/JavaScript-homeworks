@@ -1,0 +1,30 @@
+/* .pic1-div{
+    padding-left: 70px;
+} */
+.container {
+    margin-top: 20px;
+}
+.main-image {
+    background-color: #333;
+    width: 1050px;
+    height: 360px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 24px;
+}
+.thumbnail {
+    background-color: #333;
+    width: 290px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.text-center {
+    text-align: center;
+}
