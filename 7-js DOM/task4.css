@@ -1,0 +1,28 @@
+*{
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+header{
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    font-size: 25px;
+    width: 200px;
+    height: 100vh;
+    
+}
+ul{
+    padding-top: 15px;
+}
+i{
+    text-align: right;
+    padding: 20px 20px ;
+}
+li{
+    padding-top: 20px;
+    padding-left: 30px;
+}
